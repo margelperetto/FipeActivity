@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tabela FIPE</string>
+    <string name="subtitle_tipos">Escolha um tipo de veículo</string>
+    <string name="tipo_carro">Carros</string>
+    <string name="tipo_moto">Motocicletas</string>
+    <string name="tipo_caminhao">Caminhões</string>
+    <string name="title_marcas">Escolha uma marca</string>
+    <string name="carregando">Carregando. Aguarde...</string>
+    <string name="titulo_erro_busca">Ops...</string>
+    <string name="erro_busca">
+        A busca não retornou nenhum resultado.
+        Tudo certo com a sua internet?</string>
+</resources>
